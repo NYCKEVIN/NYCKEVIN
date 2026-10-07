@@ -37,6 +37,14 @@
 ## 🧰 Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,androidstudio,vscode,git,github&theme=dark&perline=8" alt="Dart, Flutter, Firebase, Supabase, Android Studio, VS Code, Git, GitHub"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,postman,gcp,md&theme=dark&perline=8" alt="Figma, Photoshop, Illustrator, Notion, Postman, Google Cloud, Markdown"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NotebookLM-0b0d12?style=for-the-badge&logo=google&logoColor=4285F4" alt="NotebookLM"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black" alt="Notion"/>
 
 <br/><br/>
 
