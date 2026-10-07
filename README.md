@@ -60,7 +60,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NYCKEVIN&show_icons=true&include_all_commits=true&bg_color=0b0d12&title_color=5eead4&icon_color=cbb8ff&text_color=e6e9ef&border_color=2a3140&border_radius=10" alt="GitHub stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=NYCKEVIN&background=0b0d12&border=2a3140&ring=5eead4&fire=cbb8ff&currStreakNum=e6e9ef&sideNums=e6e9ef&currStreakLabel=5eead4&sideLabels=7d8799&dates=7d8799&border_radius=10" alt="GitHub streak"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYCKEVIN&layout=compact&bg_color=0b0d12&title_color=5eead4&text_color=e6e9ef&border_color=2a3140&border_radius=10" alt="Most used languages"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NYCKEVIN&layout=compact&hide=c%2B%2B,cmake,c,swift,html&bg_color=0b0d12&title_color=5eead4&text_color=e6e9ef&border_color=2a3140&border_radius=10" alt="Most used languages"/>
 
 <br/>
 
