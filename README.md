@@ -38,10 +38,7 @@
 
 <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,supabase,androidstudio,vscode,git,github&theme=dark&perline=8" alt="Dart, Flutter, Firebase, Supabase, Android Studio, VS Code, Git, GitHub"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,postman,gcp,md&theme=dark&perline=8" alt="Figma, Photoshop, Illustrator, Notion, Postman, Google Cloud, Markdown"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/NotebookLM-0b0d12?style=for-the-badge&logo=google&logoColor=4285F4" alt="NotebookLM"/>
-
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,notion,postman,gcp&theme=dark&perline=8" alt="Figma, Photoshop, Illustrator, Notion, Postman, Google Cloud"/>
 <br/><br/>
 
 ## 🛠️ Tech Stack
