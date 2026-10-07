@@ -64,9 +64,6 @@
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NYCKEVIN&bg_color=0b0d12&color=7d8799&line=5eead4&point=cbb8ff&area=true&area_color=5eead4&hide_border=true&title_color=e6e9ef" alt="Contribution graph"/>
-
-<br/><br/>
 
 ## 🚀 Featured Projects
 
